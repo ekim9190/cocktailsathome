@@ -1,19 +1,39 @@
 # Cocktails at Home
 
 ### Margarita
-Tequila, Agave, Lime
+- 60ml Tequila
+- 30ml Agave
+- 30ml Lime
 
 ### Dead Man's Handle
-Tequila, Campari, Orgeat, Lime
+- 45ml Tequila
+- 22.5ml Campari
+- 15ml Orgeat
+- 15ml Lime
 
 ### Beach Goth
-Bourbon, Ramazzotti, Banana, Lemon, Pineapple, Creme de Cacao
+- 45ml Bourbon
+- 60ml Ramazzotti
+- 22.5ml Banana
+- 22.5ml Lemon
+- 15ml Pineapple
+- 5ml Creme de Cacao
 
 ### Bird of Paradise
-Rum, Pineapple, Aperol, Lime, Agave
+- 30 ml Overproof Rum
+- 30ml Pineapple,
+- 15ml Aperol
+- 15ml Lime
+- 7.5ml Agave
 
 ### 20th Century
-Gin, Creme de Cacao, Lillet Blanc, Lemon
+- 30ml Gin
+- 30ml Creme de Cacao
+- 15ml Lillet Blanc
+- 15ml Lemon
 
 ### Jasmine
-Gin, Curacao, Campari, Lemon
+- 45ml Gin
+- 30ml Curacao
+- 15ml Campari
+- 22.5ml Lemon
