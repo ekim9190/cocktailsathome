@@ -6,3 +6,9 @@
 - [Bird of Paradise](recipes/bird-of-paradise.md)
 - [20th Century](recipes/20th-century.md)
 - [Jasmine](recipes/jasmine.md)
+- Henrietta
+- Shakedown Street
+- Cable Car
+- The Professional
+- Mexican Firing Squad
+- Bermuda Hundred
