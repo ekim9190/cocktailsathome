@@ -16,3 +16,4 @@
 - [Trinidad Sour](recipes/trinidad-sour.md)
 - [Cucumber Southside](recipes/cucumber-southside.md)
 - [Japanese Cold Noodle](recipes/japanese-cold-noodle.md)
+- [Bicycle Thief](recipes/bicycle-thief.md)
